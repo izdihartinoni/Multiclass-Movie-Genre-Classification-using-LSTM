@@ -7,5 +7,5 @@ Dataset : "https://www.kaggle.com/lokkagle/movie-genre-data"
 
 Accuracy
 
-- [x] Acc : 99 %
+- [x] Acc : 100 %
 - [x] Val_acc : 90 %
